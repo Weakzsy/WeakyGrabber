@@ -3,7 +3,7 @@
 This is a Python coded "Grabber" specifically made for Roblox.
 
 ## Description
-Weaky Grabber is a Python stub builder that recovers personal information from Windows devices, used with the Command Prompt, that contains multiple settings to set up and compile your stub. (This is just the 1.0 Version of Weaky Grabber, so it may have some bugs)
+Weaky Grabber is a Python stub builder that recovers personal information from Windows devices, used with the Command Prompt, that contains multiple settings to set up and compile your stub. (This is just the 1.2 Version of Weaky Grabber, so it may have some bugs)
 
 ## Disclaimer
 THIS WAS MADE FOR EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE OF ANY MALICIOUS USAGE OF THIS SOFTWARE.
